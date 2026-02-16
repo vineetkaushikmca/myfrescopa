@@ -1,8 +1,9 @@
-# Frescopa Site Project
-Based on the boilerplate for AEM Authoring with Edge Delivery Services projects that integrate with Adobe Commerce.
+# MyFrescopa Site Project
+Based on the Frescopa boilerplate for AEM Authoring with Edge Delivery Services.
 
 ## Environments
-- Live: https://frescopa.coffee/
+- Preview: https://main--myfrescopa--vineetkaushikmca.aem.page/
+- Live: https://main--myfrescopa--vineetkaushikmca.aem.live/
 
 ## Content Setup
 See <https://github.com/markszulc/frescopa-with-edge-delivery-services>

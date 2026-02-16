@@ -2,6 +2,7 @@
   "project": "Frescopa",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
+  "contentSourceUrl": "https://author-p124869-e1429323.adobeaemcloud.com/editor.html/content/frescopa/en",
   "plugins": [
     {
       "id": "cif",
@@ -9,7 +10,7 @@
       "environments": [
         "edit"
       ],
-      "url": "https://main--frescopa--aem-showcase.aem.live/tools/picker/dist/index.html",
+      "url": "https://main--myfrescopa--vineetkaushikmca.aem.live/tools/picker/dist/index.html",
       "isPalette": true,
       "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
     },
@@ -19,7 +20,7 @@
       "environments": [
         "edit"
       ],
-      "url": "https://main--frescopa--aem-showcase.aem.live/tools/segments/dist/index.html",
+      "url": "https://main--myfrescopa--vineetkaushikmca.aem.live/tools/segments/dist/index.html",
       "isPalette": true,
       "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
     }
